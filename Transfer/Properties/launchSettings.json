@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Transfer": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\Tomas\\Documents\\UndiscoveredFood\\Fotky\\new\" \"F:\\fotky\" "
+    }
+  }
+}
